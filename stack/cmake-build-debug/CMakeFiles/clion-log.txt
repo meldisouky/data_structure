@@ -1,0 +1,4 @@
+"D:\Windows\my_programs\Clion\program\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Computer Science\data_structure\stack"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Computer Science/data_structure/stack/cmake-build-debug

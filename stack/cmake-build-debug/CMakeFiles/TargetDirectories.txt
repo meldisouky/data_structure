@@ -1,0 +1,3 @@
+D:/Computer Science/data_structure/stack/cmake-build-debug/CMakeFiles/stack.dir
+D:/Computer Science/data_structure/stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Computer Science/data_structure/stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
